@@ -95,7 +95,7 @@
     <child
       link="left_link" />
     <axis
-      xyz="0 0 1" />
+      xyz="0 0 -1" />
   </joint>
   <link
     name="Right_link">
@@ -148,7 +148,7 @@
     <child
       link="Right_link" />
     <axis
-      xyz="0 0 1" />
+      xyz="0 0 -1" />
   </joint>
 
   <gazebo>
